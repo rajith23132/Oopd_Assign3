@@ -1,6 +1,5 @@
 #ifndef OBJ1_H
 #define OBJ1_H
-
 #include <iostream>
 
 class Object1

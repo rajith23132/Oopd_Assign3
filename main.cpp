@@ -40,7 +40,7 @@ int main()
 while (true) {
         try {
             int choice;
-            std::cout << "Menu:\n";
+            std::cout << "\n---- Menu ----\n";
             std::cout << "1. Insert an element\n";
             std::cout << "2. Delete an element\n";
             std::cout << "3. Preorder traversal\n";

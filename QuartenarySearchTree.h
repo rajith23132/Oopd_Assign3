@@ -5,7 +5,6 @@
 #include "Object1.h"
 #include "Object2.h"
 
-
 template <typename T>
 class Node
 {

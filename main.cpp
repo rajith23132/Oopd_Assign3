@@ -20,14 +20,11 @@ int main()
     //  Object1 obj4(111);
     //  Object1 obj5(211);
 
-
      Object2 obj6(100);
      Object2 obj7(23);
      Object2 obj8(75);
      Object2 obj9(111);
-     Object2 obj10(211);
-    
-
+     Object2 obj10(211); 
 
     // Object1 initialElements1[] = {obj1,obj2,obj3,obj4,obj5};
     // QuartenarySearchTree<Object1> tree(initialElements1, 5);

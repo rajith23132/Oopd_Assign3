@@ -14,29 +14,18 @@ public:
 
 int main()
 {
-    //  Object1 obj1(100);
-    //  Object1 obj2(23);
-    //  Object1 obj3(75);
-    //  Object1 obj4(111);
-    //  Object1 obj5(211);
-
      Object2 obj6(100);
      Object2 obj7(23);
      Object2 obj8(75);
      Object2 obj9(111);
      Object2 obj10(211); 
 
-    // Object1 initialElements1[] = {obj1,obj2,obj3,obj4,obj5};
-    // QuartenarySearchTree<Object1> tree(initialElements1, 5);
-
     Object2 initialElements2[] = {obj6,obj7,obj8,obj9,obj10};
     QuartenarySearchTree<Object2> tree(initialElements2, 5);
 
-    // Object1 element;
-    // Object1 element1;
-
     Object2 element;
     Object2 element1;
+    
 while (true) {
         try {
             int choice;

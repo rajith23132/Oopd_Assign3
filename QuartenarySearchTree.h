@@ -1,6 +1,5 @@
 #ifndef QST_H
 #define QST_H
-
 #include <iostream>
 #include "Object1.h"
 #include "Object2.h"
